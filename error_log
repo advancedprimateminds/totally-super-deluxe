@@ -1,0 +1,11 @@
+[22-Apr-2013 17:21:13] PHP Fatal error:  Call to undefined function  get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[22-Apr-2013 17:22:16] PHP Fatal error:  Call to undefined function  get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[12-Aug-2013 13:39:10] PHP Fatal error:  Call to undefined function  get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[12-Aug-2013 13:40:12] PHP Fatal error:  Call to undefined function  get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[12-Nov-2013 02:58:32 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[12-Nov-2013 02:59:41 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[16-Feb-2014 19:57:13 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[09-Jul-2014 14:55:32 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[16-Feb-2015 08:51:34 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[16-Jun-2015 21:03:42 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/index.php on line 1
+[24-Jul-2015 20:55:44 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/tsd/public_html/wp/wp-content/themes/totallysuperdeluxe/404.php on line 1
